@@ -1,0 +1,47 @@
+.container-v2 {
+    text-align: center;
+    background-color: #000;
+    color: #fbfbfb;
+    padding: 100px;
+  }
+  
+  h1 {
+    color: rgb(42, 169, 42);
+  }
+  
+  .iconBoxWrapper {
+    display: inline-block;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #14b773;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .iconBoxWrapper:hover {
+    background-color: #e4ffcf;
+    cursor: pointer;
+  }
+  
+  .iconBoxWrapper a {
+    text-decoration: none;
+    color: #f7f4f4;
+  }
+  
+  .iconBoxWrapper p {
+    margin-top: 10px;
+  }
+  
+  .bullseye-bottom-border {
+    margin-top: 60px;
+    padding: 10px;
+    border-top: 1px solid #78ee66;
+    text-align: center;
+    background-color: #df3f3f;
+    color: #000000;
+  }
+  
+  .lt4-Lock {
+    margin-right: 16px;
+  }
+  

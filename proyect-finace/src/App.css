@@ -1,0 +1,17 @@
+.app-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 60px; /* Ajusta la altura según tus necesidades */
+  background-color: #f0f0f0; /* Color de fondo del Navbar */
+  /* Otros estilos adicionales para el Navbar */
+}
+
+/* Resto de los estilos para el contenido de la aplicación */
