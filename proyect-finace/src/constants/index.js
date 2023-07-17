@@ -19,7 +19,18 @@ import {
     Banco_Ganadero,
     BNB_Logo,
     ecofuturo, */
-    pdf
+    pdf1,
+    pdf2,
+    pdf3,
+    pdf4,
+    pdf5,
+    pdf6,
+    pdf7,
+    pdf8,
+    pdf9,
+    pdf10,
+    pdf11,
+    pdf12,
 } from "../assets";
 
 
@@ -27,22 +38,22 @@ export const images = [
       {
         id: 1,
         src: banco_bcp,
-        pdf: pdf,
+        pdf: pdf1,
       },
       {
         id: 2,
         src: banco_bisa,
-        pdf: pdf,
+        pdf: pdf2,
       },
       {
         id: 3,
         src: banco_fie,
-        pdf: pdf,
+        pdf: pdf3,
       },
       {
         id: 4,
         src: banco_fortalesa,
-        pdf: pdf,
+        pdf: pdf4,
       },
       /* {
         id: 5,
@@ -52,22 +63,22 @@ export const images = [
       {
         id: 6,
         src: banco_sol,
-        pdf: pdf,
+        pdf: pdf5,
       },
       {
         id: 7,
         src: banco_union,
-        pdf: pdf,
+        pdf: pdf6,
       },
       {
         id: 8,
         src: banco_Nacional,
-        pdf: pdf,
+        pdf: pdf7,
       },
       {
         id: 9,
         src: BANCO_GANADERO,
-        pdf: pdf,
+        pdf: pdf8,
       },
       /* {
         id: 10,
@@ -87,7 +98,7 @@ export const images = [
       {
         id: 13,
         src: ecofuturo_logo,
-        pdf: pdf,
+        pdf: pdf9,
       },
       /* {
         id: 14,
@@ -97,12 +108,12 @@ export const images = [
       {
         id: 15,
         src: Mercantil,
-        pdf: pdf,
+        pdf: pdf10,
       },
       {
         id: 16,
         src: pro_mujer,
-        pdf: pdf,
+        pdf: pdf11,
       },
       /* {
         id: 17,
@@ -112,7 +123,7 @@ export const images = [
       {
         id: 18,
         src: prodem,
-        pdf: pdf,
+        pdf: pdf12,
       },
       // Agrega más objetos de imágenes con sus respectivos archivos PDF
     ];  

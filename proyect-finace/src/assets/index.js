@@ -17,7 +17,18 @@ import Mercantil from "./mercantil.png";
 import pro_mujer from "./pro mujer.png";
 import pro_mujer2 from "./pro mujer2.png";
 import prodem from "./prodem.jpg";
-import pdf from "./T2 T1.pdf";
+import pdf1 from "./BCP.pdf";
+import pdf2 from "./Bisa.pdf";
+import pdf3 from "./banco fie.pdf";
+import pdf4 from "./Fortaleza.pdf";
+import pdf5 from "./sol.pdf";
+import pdf6 from "./BANCO  UNIÓN .pdf";
+import pdf7 from "./banco BNB.pdf";
+import pdf8 from "./Ganadero.pdf";
+import pdf9 from "./ecofuturo.pdf";
+import pdf10 from "./Mercantil Santa Cruz.pdf";
+import pdf11 from "./Pro Mujer.pdf";
+import pdf12 from "./PRODEM.pdf";
 
 
 export {
@@ -40,5 +51,16 @@ export {
     pro_mujer,
     pro_mujer2,
     prodem,
-    pdf
+    pdf1,
+    pdf2,
+    pdf3,
+    pdf4,
+    pdf5,
+    pdf6,
+    pdf7,
+    pdf8,
+    pdf9,
+    pdf10,
+    pdf11,
+    pdf12,
 }

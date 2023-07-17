@@ -23,3 +23,13 @@
   height: 100%;
   object-fit: contain;
 }
+.container-v2 {
+  text-align: center;
+  background-color: #000;
+  color: #fbfbfb;
+  padding: 100px;
+}
+
+h1 {
+  color: rgb(42, 169, 42);
+}

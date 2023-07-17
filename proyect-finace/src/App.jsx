@@ -1,21 +1,23 @@
+//import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import './App.css';
-import {
-  Hero,
-  Navbar,
-  Banco,
-  BalanceG
-} from "./components";
+import Navbar from './components/Navbar';
+
+import Banco from './components/Banco';
+import BalanceG from './components/BalanceG';
+import Contacto from './components/contacto';
 
 const App = () => {
   return (
     <Router>
       <div>
-        <Navbar /> {/* Barra de navegación */}
-        <Hero />
+        <Navbar />
+        
         <Routes>
-          <Route path="/" element={<BalanceG />} />
+          <Route path="/proyecto_finanzas" element={<div><BalanceG /></div>} />
+          
           <Route path="/taza-banco" element={<Banco />} />
+          <Route path="/contacto" element={<Contacto />} />
         </Routes>
       </div>
     </Router>

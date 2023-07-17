@@ -26,4 +26,12 @@
   .resultado {
     margin-top: 10px;
   }
-  
+  .container-v2-2 {
+    text-align: center;
+    background-color: #1c1b1b;
+    color: rgb(0, 0, 0);
+    padding: 100px;
+  }
+  h1 {
+    color: rgb(42, 169, 42);
+  }

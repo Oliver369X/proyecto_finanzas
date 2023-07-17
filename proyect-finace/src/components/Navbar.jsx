@@ -7,14 +7,14 @@ const Navbar = () => {
   return (
     <nav className="navbar">
       <div className="navbar-left">
-        <Link to="/">
+        <Link to="/proyecto_finanzas">
           <img src={logo} alt="Logo" className="navbar-logo" />
         </Link>
       </div>
       <div className="navbar-right">
         <ul className="navbar-menu">
           <li>
-            <Link to="/">Inicio</Link>
+            <Link to="/proyecto_finanzas">Inicio</Link>
           </li>
           {/* <li>
             <Link to="/servicios">Servicios</Link>
@@ -22,9 +22,9 @@ const Navbar = () => {
           <li>
             <Link to="/productos">Productos</Link>
           </li> */}
-          <li>
+          {/* <li>
             <Link to="/contacto">Contacto</Link>
-          </li>
+          </li> */}
         </ul>
       </div>
     </nav>
