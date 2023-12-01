@@ -1,5 +1,5 @@
 .balance-general {
-    background-color: #f2f2f2;
+    background-color: #cecac5;
     padding: 20px;
     border-radius: 5px;
     width: 400px;
@@ -16,8 +16,8 @@
   }
   
   button {
-    background-color: #4caf50;
-    color: rgb(0, 0, 0);
+    background-color: #b32a2a;
+    color: rgb(0, 0, 255);
     border: none;
     padding: 10px;
     cursor: pointer;
@@ -28,10 +28,10 @@
   }
   .container-v2-2 {
     text-align: center;
-    background-color: #1c1b1b;
-    color: rgb(0, 0, 0);
+    background-color: #FFAD53;
+    color: rgb(8, 8, 8);
     padding: 100px;
   }
   h1 {
-    color: rgb(42, 169, 42);
+    color: rgb(0, 0, 0);
   }

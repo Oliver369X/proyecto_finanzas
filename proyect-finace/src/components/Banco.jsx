@@ -11,7 +11,8 @@ const Banco = () => {
     <div>
       <div className="container-v2">
         <h1 className="h1 center">
-        ¡Felicidades! Tu empresa tiene un ratio de endeudamiento saludable. Puedes considerar oportunidades de endeudamiento para impulsar el crecimiento y expandir tus operaciones
+        !En hora buena! Tu empresa cuenta con un saludable índice de endeudamiento. Ahora es el momento propició para explorar
+        posiblemente de financiamiento, potenciando así el crecimiento y ampliando tus operaciones
         </h1>
       </div>
       <div className="image-gallery">

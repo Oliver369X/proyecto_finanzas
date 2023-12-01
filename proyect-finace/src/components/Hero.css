@@ -1,12 +1,12 @@
 .container-v2 {
     text-align: center;
-    background-color: #000;
-    color: #fbfbfb;
+    background-color: #fa0808;
+    color: #f20e0e;
     padding: 100px;
   }
   
   h1 {
-    color: rgb(42, 169, 42);
+    color: rgb(254, 255, 254);
   }
   
   .iconBoxWrapper {

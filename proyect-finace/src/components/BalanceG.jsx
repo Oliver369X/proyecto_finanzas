@@ -36,7 +36,7 @@ const BalanceG = () => {
   return (
     <div className="container-v2-2">
       <h1 className="h1 center">
-        Préstamos para pequeñas empresas: compare las mejores opciones
+        Préstamos para pequeñas y medianas empresas: compare las mejores opciones
       </h1>
       <h2 style={{ backgroundColor: 'rgb(0, 0, 0)', color: 'white' }}>
         Encuentre la financiación adecuada para su negocio.
@@ -44,7 +44,7 @@ const BalanceG = () => {
       <h1></h1>
       <h1></h1>
       <h2 style={{ backgroundColor: 'rgb(0, 0, 0)', color: 'white' }}>
-        Proporcione la siguiente información para realizar un análisis de endeudamiento
+        Proporcione la siguiente información para realizar un análisis de apalancamiento
       </h2>
       <div className="balance-general">
         <h2>Balance General</h2>
@@ -82,10 +82,10 @@ const BalanceG = () => {
           Calcular Ratios
         </button>
         <div className="resultado">
-          <p>Endeudamiento: {endeudamiento}</p>
-          <p>Endeudamiento Total: {endeudamientoTotal}</p>
+          <p>Apalancamiento: {endeudamiento}</p>
+          <p>Apalancamiento Total: {endeudamientoTotal}</p>
           {showMessage && (
-            <p style={{ color: 'red' }}>El nivel de endeudamiento es alto. Por favor, revise su situación financiera.</p>
+            <p style={{ color: 'red' }}>El nivel de apalancamiento es alto. Por favor, revise su situación financiera.</p>
           )}
         </div>
       </div>
